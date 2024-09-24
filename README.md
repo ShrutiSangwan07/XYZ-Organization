@@ -292,19 +292,19 @@ For questions, feedback, or collaboration, feel free to reach out:
 This project was collaboratively developed by:
 
 # Member 1 – Shruti
-- mail: shrutisangwan199@gmail.com
+ mail: shrutisangwan199@gmail.com
 
-- Linkedin:https://www.linkedin.com/in/shruti-6331a6211/
+ Linkedin:https://www.linkedin.com/in/shruti-6331a6211/
 
-- portfolio:https://shruti513.wordpress.com/
-- 
-- https://shrutisangwan07.github.io/Portfolio-Website/
+ portfolio:https://shruti513.wordpress.com/
+
+ https://shrutisangwan07.github.io/Portfolio-Website/
 
 # Member 2 – Deepak Tiwari CODEING-BROS
-- mail: deepakcoder2023@gmail.com
+ mail: deepakcoder2023@gmail.com
 
-- linkedin https://www.linkedin.com/in/dev-deepaktiwari/
+ linkedin https://www.linkedin.com/in/dev-deepaktiwari/
 
-- portfolio: https://codewithshaka.netlify.app/
+ portfolio: https://codewithshaka.netlify.app/
 
-- Follow on Instagram: [@coding.shaka] https://www.instagram.com/coding.shaka?igsh=ODd4MWM1NGhrbjA3
+ Follow on Instagram: [@coding.shaka] https://www.instagram.com/coding.shaka?igsh=ODd4MWM1NGhrbjA3
